@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Coventic](https://discord.gg/covntc)
 
-- ▶️ My favorite Youtube channel [youtube.com/fireship](fireship)
+- ▶️ My favorite Youtube channel [Fireship](www.youtube.com/fireship)
 
 - 💬 You can ask me about **Discord bot's and Back-End/Front-End Development**
 
