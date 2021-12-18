@@ -3,11 +3,11 @@
 
 - 🔥 Sênior Full-Stack Developer, focused on create so many experience
 
-- 🔭 I’m currently learning c++ and haskell
+- 🔭 I’m currently learning about UX/UI Design
 
 - 👨‍💻 All of my projects are available at [Coventic](https://discord.gg/covntc)
 
-- ▶️ My favoriter YT [youtube.com/fireship](fireship)
+- ▶️ My favorite Youtube channel [youtube.com/fireship](fireship)
 
 - 💬 You can ask me about **Discord bot's and Back-End/Front-End Development**
 
